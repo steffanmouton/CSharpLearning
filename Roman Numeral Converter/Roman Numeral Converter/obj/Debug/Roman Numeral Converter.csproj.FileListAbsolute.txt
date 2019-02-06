@@ -1,0 +1,6 @@
+C:\Users\s188045\Documents\GitHub\CSharpLearning\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman_Numeral_Converter.exe
+C:\Users\s188045\Documents\GitHub\CSharpLearning\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman_Numeral_Converter.pdb
+C:\Users\s188045\Documents\GitHub\CSharpLearning\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csprojAssemblyReference.cache
+C:\Users\s188045\Documents\GitHub\CSharpLearning\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.CoreCompileInputs.cache
+C:\Users\s188045\Documents\GitHub\CSharpLearning\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.exe
+C:\Users\s188045\Documents\GitHub\CSharpLearning\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.pdb
