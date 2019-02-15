@@ -45,8 +45,7 @@ namespace PracticeCasting
 
             // Write to debugger proving validity:
 
-            var zFirst = new Zombie();
-            zFirst.Name = "Hungry Zombie";
+            var zFirst = new Zombie {Name = "Hungry Zombie"};
             // zFirst Zombie is created, default constructor sets Hungry to true. Name is set to Hungry Zombie.
 
             zFirst.Print(); // Debug Print Zombie's Name and current Hungry state
