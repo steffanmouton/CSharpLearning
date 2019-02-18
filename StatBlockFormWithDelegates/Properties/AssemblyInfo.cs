@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("StatBlockWithDelegates")]
+[assembly: AssemblyTitle("StatBlockFormWithDelegates")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("The Academy Of Interactive Entertainment")]
-[assembly: AssemblyProduct("StatBlockWithDelegates")]
+[assembly: AssemblyProduct("StatBlockFormWithDelegates")]
 [assembly: AssemblyCopyright("Copyright © The Academy Of Interactive Entertainment 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("cb5ba3ea-cf37-411e-ad6a-818cd6680c15")]
+[assembly: Guid("41772f06-7250-4874-874a-2329dd18390c")]
 
 // Version information for an assembly consists of the following four values:
 //
